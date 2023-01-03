@@ -13,6 +13,9 @@
 		7F1E4B252963A8B90006721A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F1E4B232963A8B90006721A /* Main.storyboard */; };
 		7F1E4B272963A8BB0006721A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F1E4B262963A8BB0006721A /* Assets.xcassets */; };
 		7F1E4B2A2963A8BB0006721A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F1E4B282963A8BB0006721A /* LaunchScreen.storyboard */; };
+		7F1E4B342963AAD50006721A /* shoe3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F1E4B312963AAD40006721A /* shoe3.jpg */; };
+		7F1E4B352963AAD50006721A /* shoe2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F1E4B322963AAD40006721A /* shoe2.jpg */; };
+		7F1E4B362963AAD50006721A /* shoe1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F1E4B332963AAD50006721A /* shoe1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		7F1E4B262963A8BB0006721A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F1E4B292963A8BB0006721A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7F1E4B2B2963A8BB0006721A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F1E4B312963AAD40006721A /* shoe3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shoe3.jpg; sourceTree = "<group>"; };
+		7F1E4B322963AAD40006721A /* shoe2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shoe2.jpg; sourceTree = "<group>"; };
+		7F1E4B332963AAD50006721A /* shoe1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shoe1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				7F1E4B1D2963A8B90006721A /* AppDelegate.swift */,
 				7F1E4B1F2963A8B90006721A /* SceneDelegate.swift */,
 				7F1E4B212963A8B90006721A /* ViewController.swift */,
+				7F1E4B332963AAD50006721A /* shoe1.jpg */,
+				7F1E4B322963AAD40006721A /* shoe2.jpg */,
+				7F1E4B312963AAD40006721A /* shoe3.jpg */,
 				7F1E4B232963A8B90006721A /* Main.storyboard */,
 				7F1E4B262963A8BB0006721A /* Assets.xcassets */,
 				7F1E4B282963A8BB0006721A /* LaunchScreen.storyboard */,
@@ -127,7 +136,10 @@
 			files = (
 				7F1E4B2A2963A8BB0006721A /* LaunchScreen.storyboard in Resources */,
 				7F1E4B272963A8BB0006721A /* Assets.xcassets in Resources */,
+				7F1E4B342963AAD50006721A /* shoe3.jpg in Resources */,
 				7F1E4B252963A8B90006721A /* Main.storyboard in Resources */,
+				7F1E4B362963AAD50006721A /* shoe1.jpg in Resources */,
+				7F1E4B352963AAD50006721A /* shoe2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
